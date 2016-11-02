@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/group/Pictures/Screenshot%20from%202016-10-27%2008-51-49.png" added="2016-10-27T12:52:21Z" modified="2016-10-27T12:52:21Z" visited="2016-10-27T12:52:21Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="GNOME Screenshot" exec="&apos;eog %u&apos;" modified="2016-10-27T12:52:21Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/group/Pictures/Screenshot%20from%202016-10-27%2008-52-33.png" added="2016-10-27T12:52:36Z" modified="2016-10-27T12:52:36Z" visited="2016-10-27T12:52:36Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="GNOME Screenshot" exec="&apos;eog %u&apos;" modified="2016-10-27T12:52:36Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/group/Pictures/Screenshot%20from%202016-10-27%2008-52-41.png" added="2016-10-27T12:52:43Z" modified="2016-10-27T12:52:43Z" visited="2016-10-27T12:52:43Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="GNOME Screenshot" exec="&apos;eog %u&apos;" modified="2016-10-27T12:52:43Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/group/Pictures/Screenshot%20from%202016-10-27%2008-52-48.png" added="2016-10-27T12:52:52Z" modified="2016-10-27T12:52:52Z" visited="2016-10-27T12:52:52Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="GNOME Screenshot" exec="&apos;eog %u&apos;" modified="2016-10-27T12:52:52Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/group/Pictures/Screenshot%20from%202016-10-27%2008-52-58.png" added="2016-10-27T12:53:01Z" modified="2016-10-27T12:53:01Z" visited="2016-10-27T12:53:01Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="GNOME Screenshot" exec="&apos;eog %u&apos;" modified="2016-10-27T12:53:01Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/group/Pictures/Screenshot%20from%202016-10-27%2010-49-37.png" added="2016-10-27T14:49:41Z" modified="2016-10-27T14:49:41Z" visited="2016-10-27T14:49:41Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="GNOME Screenshot" exec="&apos;eog %u&apos;" modified="2016-10-27T14:49:41Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/group/README.txt" added="2016-10-27T15:09:32Z" modified="2016-10-27T15:09:59Z" visited="2016-10-27T15:09:32Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 5.1" exec="&apos;soffice %u&apos;" modified="2016-10-27T15:09:59Z" count="5"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/group/README" added="2016-10-27T15:09:54Z" modified="2016-10-27T15:09:54Z" visited="2016-10-27T15:09:54Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 5.1" exec="&apos;soffice %u&apos;" modified="2016-10-27T15:09:54Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>
